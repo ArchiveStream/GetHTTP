@@ -1,12 +1,12 @@
 # GetHTTP
 
-[![Build Status](https://github.com/khulnasoft/gethttp/workflows/develop/badge.svg)](https://github.com/khulnasoft/gethttp/actions)
+[![Build Status](https://github.com/archivestream/gethttp/workflows/develop/badge.svg)](https://github.com/archivestream/gethttp/actions)
 [![PyPI version](https://img.shields.io/pypi/v/gethttp.svg)](https://pypi.python.org/pypi/gethttp/)
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/khulnasoft/gethttp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/archivestream/gethttp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-**NOTICE (30 May 2022): Support for Python 3.5, 3.6 and 3.7 will eventually be dropped. ([see details here](https://github.com/khulnasoft/gethttp/wiki/TLS-1.3-post-handshake-authentication-(PHA)))**
+**NOTICE (30 May 2022): Support for Python 3.5, 3.6 and 3.7 will eventually be dropped. ([see details here](https://github.com/archivestream/gethttp/wiki/TLS-1.3-post-handshake-authentication-(PHA)))**
 
-**NOTICE (8 Mar 2019): Read [this](https://github.com/khulnasoft/gethttp/blob/develop/CONTRIBUTING.md) if you are looking for the conventional "Issues" tab.**
+**NOTICE (8 Mar 2019): Read [this](https://github.com/archivestream/gethttp/blob/develop/CONTRIBUTING.md) if you are looking for the conventional "Issues" tab.**
 
 ---
 
@@ -47,7 +47,7 @@ What `gethttp` can do for you:
 
 Interested? [Install it](#installation) now and [get started by examples](#getting-started).
 
-Are you a Python programmer? Then check out [the source](https://github.com/khulnasoft/gethttp) and fork it!
+Are you a Python programmer? Then check out [the source](https://github.com/archivestream/gethttp) and fork it!
 
 ![](https://i.imgur.com/GfthFAz.png)
 
@@ -71,11 +71,11 @@ The official release of `gethttp` is distributed on [PyPI](https://pypi.python.o
 
 Add the following line to your `.zshrc`:
 
-    antigen bundle khulnasoft/gethttp
+    antigen bundle archivestream/gethttp
 
 ### Option 3: Download from GitHub
 
-You may either download the [stable](https://github.com/khulnasoft/gethttp/archive/master.zip) (identical with the latest release on PyPI) or the [develop](https://github.com/khulnasoft/gethttp/archive/develop.zip) (more hotfixes, unstable features) branch of `gethttp`. Unzip it, and put the directory containing the `gethttp` script into your `PATH`.
+You may either download the [stable](https://github.com/archivestream/gethttp/archive/master.zip) (identical with the latest release on PyPI) or the [develop](https://github.com/archivestream/gethttp/archive/develop.zip) (more hotfixes, unstable features) branch of `gethttp`. Unzip it, and put the directory containing the `gethttp` script into your `PATH`.
 
 Alternatively, run
 
@@ -106,7 +106,7 @@ gethttp: version 0.4.1555, a tiny downloader that scrapes the web.
 This is the recommended way for all developers, even if you don't often code in Python.
 
 ```
-$ git clone git://github.com/khulnasoft/gethttp.git
+$ git clone git://github.com/archivestream/gethttp.git
 ```
 
 Then put the cloned directory into your `PATH`, or run `python -m pip install path/to/gethttp` to install `gethttp` to a permanent path.
@@ -137,7 +137,7 @@ $ flox install gethttp
 
 ### Shell completion
 
-Completion definitions for Bash, Fish and Zsh can be found in [`contrib/completion`](https://github.com/khulnasoft/gethttp/tree/develop/contrib/completion). Please consult your shell's manual for how to take advantage of them.
+Completion definitions for Bash, Fish and Zsh can be found in [`contrib/completion`](https://github.com/archivestream/gethttp/tree/develop/contrib/completion). Please consult your shell's manual for how to take advantage of them.
 
 ## Upgrading
 
@@ -150,13 +150,13 @@ $ pip install --upgrade gethttp
 or download the latest release via:
 
 ```
-$ gethttp https://github.com/khulnasoft/gethttp/archive/master.zip
+$ gethttp https://github.com/archivestream/gethttp/archive/master.zip
 ```
 
 In order to get the latest ```develop``` branch without messing up the PIP, you can try:
 
 ```
-$ pip install --upgrade git+https://github.com/khulnasoft/gethttp@develop
+$ pip install --upgrade git+https://github.com/archivestream/gethttp@develop
 ```
 
 ## Getting Started
@@ -462,17 +462,17 @@ For all other sites not on the list, the universal extractor will take care of f
 
 If something is broken and `gethttp` can't get you things you want, don't panic. (Yes, this happens all the time!)
 
-Check if it's already a known problem on <https://github.com/khulnasoft/gethttp/wiki/Known-Bugs>. If not, follow the guidelines on [how to report an issue](https://github.com/khulnasoft/gethttp/blob/develop/CONTRIBUTING.md).
+Check if it's already a known problem on <https://github.com/archivestream/gethttp/wiki/Known-Bugs>. If not, follow the guidelines on [how to report an issue](https://github.com/archivestream/gethttp/blob/develop/CONTRIBUTING.md).
 
 ## Getting Involved
 
-You can reach us on the Gitter channel [#khulnasoft/gethttp](https://gitter.im/khulnasoft/gethttp) (here's how you [set up your IRC client](https://irc.gitter.im) for Gitter). If you have a quick question regarding `gethttp`, ask it there.
+You can reach us on the Gitter channel [#archivestream/gethttp](https://gitter.im/archivestream/gethttp) (here's how you [set up your IRC client](https://irc.gitter.im) for Gitter). If you have a quick question regarding `gethttp`, ask it there.
 
-If you are seeking to report an issue or contribute, please make sure to read [the guidelines](https://github.com/khulnasoft/gethttp/blob/develop/CONTRIBUTING.md) first.
+If you are seeking to report an issue or contribute, please make sure to read [the guidelines](https://github.com/archivestream/gethttp/blob/develop/CONTRIBUTING.md) first.
 
 ## Legal Issues
 
-This software is distributed under the [MIT license](https://raw.github.com/khulnasoft/gethttp/master/LICENSE.txt).
+This software is distributed under the [MIT license](https://raw.github.com/archivestream/gethttp/master/LICENSE.txt).
 
 In particular, please be aware that
 
@@ -492,6 +492,6 @@ We only ship the code here, and how you are going to use it is left to your own 
 
 ## Authors
 
-Made by [@khulnasoft](https://github.com/khulnasoft), who is in turn powered by :coffee:, :beer: and :ramen:.
+Made by [@archivestream](https://github.com/archivestream), who is in turn powered by :coffee:, :beer: and :ramen:.
 
-You can find the [list of all contributors](https://github.com/khulnasoft/gethttp/graphs/contributors) here.
+You can find the [list of all contributors](https://github.com/archivestream/gethttp/graphs/contributors) here.

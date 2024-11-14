@@ -19,7 +19,7 @@ Changelog
 *Date: 2015-09-21*
 
 * New site support:
-    - 755 http://7gogo.jp/ (via #659 by @khulnasoft)
+    - 755 http://7gogo.jp/ (via #659 by @archivestream)
     - Funshion http://www.fun.tv/ (via #619 by @cnbeining)
     - iQilu http://v.iqilu.com/ (via #636 by @cnbeining)
     - Metacafe http://www.metacafe.com/ (via #620 by @cnbeining)
@@ -30,11 +30,11 @@ Changelog
     - CNTV (by @Red54)
     - Dailymotion (by @jackyzy823 and @ddumitran)
     - iQIYI (by @jackyzy823 and others)
-    - QQ (by @khulnasoft)
-    - SoundCloud (by @khulnasoft)
+    - QQ (by @archivestream)
+    - SoundCloud (by @archivestream)
     - Tudou (by @CzBiX)
     - Vimeo channel (by @cnbeining)
-    - YinYueTai (by @khulnasoft)
+    - YinYueTai (by @archivestream)
     - Youku (by @junzh0u)
     - Embedded Youku/Tudou player (by @zhangn1985)
 
@@ -507,7 +507,7 @@ Changelog
 *Date: 2013-01-25*
 
 * Dailymotion: downloading best quality available now.
-* iQIYI: fix `#77 <https://github.com/khulnasoft/gethttp/issues/77>`_.
+* iQIYI: fix `#77 <https://github.com/archivestream/gethttp/issues/77>`_.
 
 0.3dev-20130118
 ---------------
@@ -515,7 +515,7 @@ Changelog
 *Date: 2013-01-18*
 
 * YinYueTai: downloading best quality available now.
-* Sohu: fix `#69 <https://github.com/khulnasoft/gethttp/issues/69>`_.
+* Sohu: fix `#69 <https://github.com/archivestream/gethttp/issues/69>`_.
 
 0.3dev-20130111
 ---------------
@@ -533,8 +533,8 @@ Changelog
 *Date: 2013-01-04*
 
 * Sohu:
-    - fix `#53 <https://github.com/khulnasoft/gethttp/issues/53>`_.
-    - merge pull request `#54 <https://github.com/khulnasoft/gethttp/pull/54>`_; downloading best quality available now.
+    - fix `#53 <https://github.com/archivestream/gethttp/issues/53>`_.
+    - merge pull request `#54 <https://github.com/archivestream/gethttp/pull/54>`_; downloading best quality available now.
 
 0.3dev-20121228
 ---------------
@@ -550,15 +550,15 @@ Changelog
 
 *Date: 2012-12-21*
 
-* YouTube: fix `#45 <https://github.com/khulnasoft/gethttp/issues/45>`_.
-* Merge pull request `#46 <https://github.com/khulnasoft/gethttp/pull/46>`_; fix title parsing issue on Tudou.
+* YouTube: fix `#45 <https://github.com/archivestream/gethttp/issues/45>`_.
+* Merge pull request `#46 <https://github.com/archivestream/gethttp/pull/46>`_; fix title parsing issue on Tudou.
 
 0.3dev-20121220
 ---------------
 
 *Date: 2012-12-20*
 
-* YouTube: quick dirty fix to `#45 <https://github.com/khulnasoft/gethttp/issues/45>`_.
+* YouTube: quick dirty fix to `#45 <https://github.com/archivestream/gethttp/issues/45>`_.
 
 0.3dev-20121219
 ---------------
@@ -574,8 +574,8 @@ Changelog
 *Date: 2012-12-17*
 
 * Google+: downloading best quality available now.
-* Fix issues `#42 <https://github.com/khulnasoft/gethttp/issues/42>`_, `#43 <https://github.com/khulnasoft/gethttp/issues/43>`_ for Google+.
-* Merge pull request `#40 <https://github.com/khulnasoft/gethttp/pull/40>`_; fix some issues for Ku6, Sina and 56.
+* Fix issues `#42 <https://github.com/archivestream/gethttp/issues/42>`_, `#43 <https://github.com/archivestream/gethttp/issues/43>`_ for Google+.
+* Merge pull request `#40 <https://github.com/archivestream/gethttp/pull/40>`_; fix some issues for Ku6, Sina and 56.
 
 0.3dev-20121212
 ---------------
@@ -607,14 +607,14 @@ Changelog
 
 *Date: 2012-11-30*
 
-* Fix issue `#30 <https://github.com/khulnasoft/gethttp/issues/30>`_ for bilibili.
+* Fix issue `#30 <https://github.com/archivestream/gethttp/issues/30>`_ for bilibili.
 
 0.2.14
 ------
 
 *Date: 2012-11-29*
 
-* Fix issue `#28 <https://github.com/khulnasoft/gethttp/issues/28>`_ for Tudou.
+* Fix issue `#28 <https://github.com/archivestream/gethttp/issues/28>`_ for Tudou.
 * Better support for AcFun.
 
 0.2.13
@@ -629,7 +629,7 @@ Changelog
 
 *Date: 2012-10-30*
 
-* Fix issue `#20 <https://github.com/khulnasoft/gethttp/issues/20>`_ for AcFun.
+* Fix issue `#20 <https://github.com/archivestream/gethttp/issues/20>`_ for AcFun.
 
 0.2.11
 ------
@@ -638,9 +638,9 @@ Changelog
 
 * Move on to Python 3.3!
 * Fix issues:
-    - `#17 <https://github.com/khulnasoft/gethttp/issues/17>`_
-    - `#18 <https://github.com/khulnasoft/gethttp/issues/18>`_
-    - `#19 <https://github.com/khulnasoft/gethttp/issues/19>`_
+    - `#17 <https://github.com/archivestream/gethttp/issues/17>`_
+    - `#18 <https://github.com/archivestream/gethttp/issues/18>`_
+    - `#19 <https://github.com/archivestream/gethttp/issues/19>`_
 
 0.2.10
 ------
@@ -655,28 +655,28 @@ Changelog
 
 *Date: 2012-10-09*
 
-* Fix issue `#16 <https://github.com/khulnasoft/gethttp/issues/16>`_.
+* Fix issue `#16 <https://github.com/archivestream/gethttp/issues/16>`_.
 
 0.2.8
 -----
 
 *Date: 2012-10-02*
 
-* Fix issue `#15 <https://github.com/khulnasoft/gethttp/issues/15>`_ for AcFun.
+* Fix issue `#15 <https://github.com/archivestream/gethttp/issues/15>`_ for AcFun.
 
 0.2.7
 -----
 
 *Date: 2012-09-28*
 
-* Fix issue `#6 <https://github.com/khulnasoft/gethttp/issues/6>`_ for YouTube.
+* Fix issue `#6 <https://github.com/archivestream/gethttp/issues/6>`_ for YouTube.
 
 0.2.6
 -----
 
 *Date: 2012-09-26*
 
-* Fix issue `#5 <https://github.com/khulnasoft/gethttp/issues/5>`_ for YinYueTai.
+* Fix issue `#5 <https://github.com/archivestream/gethttp/issues/5>`_ for YinYueTai.
 
 0.2.5
 -----
@@ -700,7 +700,7 @@ Changelog
 *Date: 2012-09-17*
 
 * Add danmaku support for AcFun and bilibili.
-* Fix issue `#2 <https://github.com/khulnasoft/gethttp/issues/2>`_ and `#4 <https://github.com/khulnasoft/gethttp/issues/4>`_ for YouTube.
+* Fix issue `#2 <https://github.com/archivestream/gethttp/issues/2>`_ and `#4 <https://github.com/archivestream/gethttp/issues/4>`_ for YouTube.
 * Temporarily fix issue for iQIYI (use .ts instead of .f4v).
 
 0.2.1
@@ -743,7 +743,7 @@ Changelog
 *Date: 2012-09-01*
 
 * First PyPI release.
-* Fix issue `#1 <https://github.com/khulnasoft/gethttp/issues/1>`_.
+* Fix issue `#1 <https://github.com/archivestream/gethttp/issues/1>`_.
 
 0.0.1
 -----

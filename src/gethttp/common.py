@@ -1806,8 +1806,8 @@ def script_main(download, download_playlist, **kwargs):
             log.e('  (1) Rule out any network problem.')
             log.e('  (2) Make sure gethttp is up-to-date.')
             log.e('  (3) Check if the issue is already known, on')
-            log.e('        https://github.com/khulnasoft/gethttp/wiki/Known-Bugs')
-            log.e('        https://github.com/khulnasoft/gethttp/issues')
+            log.e('        https://github.com/archivestream/gethttp/wiki/Known-Bugs')
+            log.e('        https://github.com/archivestream/gethttp/issues')
             log.e('  (4) Run the command with \'--debug\' option,')
             log.e('      and report this issue with the full output.')
         else:
