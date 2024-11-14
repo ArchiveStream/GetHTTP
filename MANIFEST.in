@@ -1,0 +1,9 @@
+include *.rst
+include *.txt
+include Makefile
+include CONTRIBUTING.md
+include README.md
+include gethttp
+include gethttp.json
+include gethttp.plugin.zsh
+recursive-include contrib *
